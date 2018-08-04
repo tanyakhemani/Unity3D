@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Using different textures.unity
+  isLoaded: 1
+  isActive: 1
